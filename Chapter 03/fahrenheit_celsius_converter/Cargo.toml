@@ -1,5 +1,5 @@
 [package]
-name = "farenheit_celsius_converter"
+name = "fahrenheit_celsius_converter"
 version = "0.1.0"
 edition = "2024"
 
